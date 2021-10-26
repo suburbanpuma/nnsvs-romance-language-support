@@ -1,0 +1,2 @@
+es*.table dicitonaries are based on the open-dict-data project.
+You can view their license here: https://github.com/open-dict-data/ipa-dict/blob/master/LICENSE
