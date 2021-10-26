@@ -12,4 +12,4 @@ Additional Phonemes:
 | ------- | ----------- |
 | br      | Breath / Respirez
 | exh     | Exhale / Expirez
-| pau     | Silence / Pas de parole (not correct but I don't know french)
+| pau     | Silence / Pas de parole (prob not correct but I don't know french...pas de mots?)
