@@ -12,5 +12,5 @@ Additional Phonemes:
 | ------- | ----------- |
 | br      | Breath / Respirez
 | exh     | Exhale / Expirez
-| pau     | Silence / Pas de parole (prob not correct but I don't know french...pas de mots?)
+| pau     | Silence / Pas de parole (I don't know french...pas de mots? période de silence?)
 | q       | Glottal stop / Consonne occlusive glottale
