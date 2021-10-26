@@ -9,7 +9,7 @@ The phoneme set is custom (somewhat based on arpabet) and has been carefully sel
 Here are the "officially" supported languages so far:
 | Language       | Num. Phonemes | Native Spk Verified | est. hours | Dict? |
 | -------------- | ------------- | ------------------- | ---------- | ----- |
-| Spanish        | 27 ~ 33       | O                   | 1 ~ 2 hr   |
+| Spanish        | 27 ~ 33       | O                   | 1 ~ 2 hr   | O
 | BR Portuguese  | 34 ~ 35       | O                   | 2 ~ 3+ hr  |
 | EU Portuguese  | 38 ~ 39       | O                   | 2 ~ 3+ hr  |
 | Catalan        | 35 ~ 40       | X                   | 1.5 ~ 2 hr |
@@ -17,9 +17,9 @@ Here are the "officially" supported languages so far:
 | Italian        | 28 ~ 34       | X                   | 1 ~ 2 hr   |
 | Sicilian       | 33 ~ 34       | X                   | 1.5 ~ 2 hr |
 | French         | 34 ~ 36       | O                   | 2 ~ 3+ hr  |
-| Belgian French | 34 ~ 35       | O                   | 2 ~ 3+ hr  |
+| Belgian French | 34 ~ 35       | O                   | 2 ~ 3+ hr  | ~
 | Quebec French  | 36 ~ 37       | O                   | 2 ~ 3+ hr  |
-| Ontario French | 36 ~ 38       | ~                   | 2 ~ 3+ hr  |
+| Ontario French | 36 ~ 38       | ~                   | 2 ~ 3+ hr  | X
 
 Additionally, Ladin and Franco-Provençal support is included but cannot be verified.
 More languages are being added but for the initial release, the most "common" languages are supported. If you need a romance language that's not lsited then open an issue.
