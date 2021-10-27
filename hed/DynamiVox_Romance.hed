@@ -12,9 +12,9 @@ QS      "L-Vowel"                                {*^a-*,*^e-*,*^i-*,*^o-*,*^u-*,
 QS      "C-Vowel"                                {*-a+*,*-e+*,*-i+*,*-o+*,*-u+*,*-aa+*,*-ao+*,*-au+*,*-oa+*,*-ax+*,*-eh+*,*-uu+*,*-uo+*,*-ui+*,*-eu+*,*-oe+*,*-er+*,*-ih+*,*-uh+*,*-an+*,*-en+*,*-in+*,*-on+*,*-un+*,*-rn+*}
 QS      "R-Vowel"                                {*+a=*,*+e=*,*+i=*,*+o=*,*+u=*,*+aa=*,*+ao=*,*+au=*,*+oa=*,*+ax=*,*+eh=*,*+uu=*,*+uo=*,*+ui=*,*+eu=*,*+oe=*,*+er=*,*+ih=*,*+uh=*,*+an=*,*+en=*,*+in=*,*+on=*,*+un=*,*+rn=*}
 
-QS      "L-Consonant"                            {*^p-*,*^b-*,*^bv-*,*^ts-*,*^t-*,*^d-*,*^dd-*,*^dj-*,*^gh-*,*^dg-*,*^jh-*,*^tg-*,*^c-*,*^k-*,*^g-*,*^gh-*,*^s-*,*^z-*,*^zz-*,*^tz-*,*^dz-*,*^ch-*,*^sh-*,*^zh-*,*^f-*,*^v-*,*^h-*,*^x-*,*^th-*,*^dh-*,*^n-*,*^nj-*,*^ny-*,*^gn-*,*^m-*,*^ng-*,*^w-*,*^j-*,*^y-*,*^ll-*,*^gl-*,*^lh-*,*^r-*,*^rr-*,*^rh-*,*^rx-*,*^rw-*,*^l-*,*^kx-*,*^q-*}
-QS      "C-Consonant"                            {*-p+*,*-b+*,*-bv+*,*-ts+*,*-t+*,*-d+*,*-dd+*,*-dj+*,*-gh+*,*-dg+*,*-jh+*,*-tg+*,*-c+*,*-k+*,*-g+*,*-gh+*,*-s+*,*-z+*,*-zz+*,*-tz+*,*-dz+*,*-ch+*,*-sh+*,*-zh+*,*-f+*,*-v+*,*-h+*,*-x+*,*-th+*,*-dh+*,*-n+*,*-nj+*,*-ny+*,*-gn+*,*-m+*,*-ng+*,*-w+*,*-j+*,*-y+*,*-ll+*,*-gl+*,*-lh+*,*-r+*,*-rr+*,*-rh+*,*-rx+*,*-rw+*,*-l+*,*-kx+*,*-q+*}
-QS      "R-Consonant"                            {*+p=*,*+b=*,*+bv=*,*+ts=*,*+t=*,*+d=*,*+dd=*,*+dj=*,*+gh=*,*+dg=*,*+jh=*,*+tg=*,*+c=*,*+k=*,*+g=*,*+gh=*,*+s=*,*+z=*,*+zz=*,*+tz=*,*+dz=*,*+ch=*,*+sh=*,*+zh=*,*+f=*,*+v=*,*+h=*,*+x=*,*+th=*,*+dh=*,*+n=*,*+nj=*,*+ny=*,*+gn=*,*+m=*,*+ng=*,*+w=*,*+j=*,*+y=*,*+ll=*,*+gl=*,*+lh=*,*+r=*,*+rr=*,*+rh=*,*+rx=*,*+rw=*,*+l=*,*+kx=*,*+q=*}
+QS      "L-Consonant"                            {*^p-*,*^b-*,*^bv-*,*^ts-*,*^t-*,*^d-*,*^dd-*,*^dj-*,*^dg-*,*^jh-*,*^tg-*,*^c-*,*^k-*,*^g-*,*^gh-*,*^s-*,*^z-*,*^zz-*,*^tz-*,*^dz-*,*^ch-*,*^sh-*,*^zh-*,*^f-*,*^v-*,*^h-*,*^x-*,*^th-*,*^dh-*,*^n-*,*^nj-*,*^ny-*,*^gn-*,*^m-*,*^ng-*,*^w-*,*^j-*,*^y-*,*^ll-*,*^gl-*,*^lh-*,*^r-*,*^rr-*,*^rh-*,*^rx-*,*^rw-*,*^l-*,*^kx-*,*^q-*}
+QS      "C-Consonant"                            {*-p+*,*-b+*,*-bv+*,*-ts+*,*-t+*,*-d+*,*-dd+*,*-dj+*,*-dg+*,*-jh+*,*-tg+*,*-c+*,*-k+*,*-g+*,*-gh+*,*-s+*,*-z+*,*-zz+*,*-tz+*,*-dz+*,*-ch+*,*-sh+*,*-zh+*,*-f+*,*-v+*,*-h+*,*-x+*,*-th+*,*-dh+*,*-n+*,*-nj+*,*-ny+*,*-gn+*,*-m+*,*-ng+*,*-w+*,*-j+*,*-y+*,*-ll+*,*-gl+*,*-lh+*,*-r+*,*-rr+*,*-rh+*,*-rx+*,*-rw+*,*-l+*,*-kx+*,*-q+*}
+QS      "R-Consonant"                            {*+p=*,*+b=*,*+bv=*,*+ts=*,*+t=*,*+d=*,*+dd=*,*+dj=*,*+dg=*,*+jh=*,*+tg=*,*+c=*,*+k=*,*+g=*,*+gh=*,*+s=*,*+z=*,*+zz=*,*+tz=*,*+dz=*,*+ch=*,*+sh=*,*+zh=*,*+f=*,*+v=*,*+h=*,*+x=*,*+th=*,*+dh=*,*+n=*,*+nj=*,*+ny=*,*+gn=*,*+m=*,*+ng=*,*+w=*,*+j=*,*+y=*,*+ll=*,*+gl=*,*+lh=*,*+r=*,*+rr=*,*+rh=*,*+rx=*,*+rw=*,*+l=*,*+kx=*,*+q=*}
 
 QS      "L-a"                                    {*^a-*}
 QS      "C-a"                                    {*-a+*}
@@ -115,9 +115,6 @@ QS      "R-dd"                                   {*+dd=*}
 QS      "L-dj"                                   {*^dj-*}
 QS      "C-dj"                                   {*-dj+*}
 QS      "R-dj"                                   {*+dj=*}
-QS      "L-gh"                                   {*^gh-*}
-QS      "C-gh"                                   {*-gh+*}
-QS      "R-gh"                                   {*+gh=*}
 QS      "L-dg"                                   {*^dg-*}
 QS      "C-dg"                                   {*-dg+*}
 QS      "R-dg"                                   {*+dg=*}
@@ -305,27 +302,27 @@ CQS "a1" {/A:(\d+)-}
 CQS "a2" {-(\d+)-}
 CQS "a3" {-(\d+)@}
 
-QS "L-Syllable_Language=ENG" {*@ENG~*}
+QS "L-Syllable_Language=LAT" {*@LAT~*}
 
-QS "L-Syllable_Language=ENG_0" {*@ENG~0/B:*}
-QS "L-Syllable_Language=ENG_1" {*@ENG~1/B:*}
+QS "L-Syllable_Language=LAT_0" {*@LAT~0/B:*}
+QS "L-Syllable_Language=LAT_1" {*@LAT~1/B:*}
 
 CQS "b1" {/B:(\d+)_}
 CQS "b2" {_(\d+)_}
 CQS "b3" {_(\d+)@}
-QS "C-Syllable_Language=ENG" {*@ENG|*}
+QS "C-Syllable_Language=LAT" {*@LAT|*}
 
-QS "C-Syllable_Language=ENG_0" {*@ENG|0/C:*}
-QS "C-Syllable_Language=ENG_1" {*@ENG|1/C:*}
+QS "C-Syllable_Language=LAT_0" {*@LAT|0/C:*}
+QS "C-Syllable_Language=LAT_1" {*@LAT|1/C:*}
 
 CQS "c1" {/C:(\d+)+}
 CQS "c2" {+(\d+)+}
 CQS "c3" {+(\d+)@}
 
-QS "R-Syllable_Language=ENG" {*@ENG&*}
+QS "R-Syllable_Language=LAT" {*@LAT&*}
 
-QS "R-Syllable_Language=ENG_0" {*@ENG&0/D:*}
-QS "R-Syllable_Language=ENG_1" {*@ENG&1/D:*}
+QS "R-Syllable_Language=LAT_0" {*@LAT&0/D:*}
+QS "R-Syllable_Language=LAT_1" {*@LAT&1/D:*}
 
 CQS "d2" {!(\d+)#}
 CQS "d3" {#(\d+)$}
