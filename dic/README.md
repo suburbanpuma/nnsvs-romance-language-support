@@ -1,4 +1,5 @@
-The dictionaries provided here are provided as a convenience.
+## Dictionaries
+The dictionaries here are provided as a convenience.
 NNSVS/ENUNU doesn't support multi-syllable words at this time which limits the usefulness of these dictionaries.
 For training you should ONLY use the blank.table file with a phonetic ust/score. If you want to use a dictionary you should replace it after training.
 
