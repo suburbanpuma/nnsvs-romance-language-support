@@ -9,10 +9,10 @@ blank.table - Standard phonetic table. For training and using voices phoneticall
 
 Spanish:
 * es-base.table - Full phoneme Spanish dictioanry, with default trasncriptions. Includes phonemes that are dropped by most speakers and won't work for most.
-* es.table - Default Spanish dictionary, with more common pronuncation
+* es-simple.table - Spanish dictionary with [b] and [bv] merged. "ll" uses [y] phoneme.
+* es.table - Default Spanish dictionary, with more common pronuncation.
 * es-mx.table - Mexican Spanish dictionary.
-* es-ar.table - Argentinian Spanish dictionary. Same as ex.table except "ll" is pronounced with the `[zh]` phoneme.
-* es-sheismo - Same as es.table but "ll" uses the `[sh]` phoneme.
+* es-ll.table - Argentinian Spanish dictionary. Same as es.table except "ll" has it's own phoneme.
 
 French:
 * fr-base.table - Full phoneme French dictioanry, with default trasncriptions. Includes phonemes that are dropped by most speakers.
