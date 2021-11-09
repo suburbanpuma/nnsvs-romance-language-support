@@ -1,11 +1,13 @@
 Example doc:
 I don't speak french and this is a placeholder.
 
-| Phoneme | IPA | X-Sampa | Consonant/Vowel/Semi-Vowel | Description | Example Word |
-| ------- | --- | ------- | -------------------------- | ----------- | ------------ |
-| a       | a   | a       | V                          |             | **a**rrêt    |
-| k       | k   | k       | C                          |
-| sh      | ʃ   | S       | C                          |
+| Phoneme | IPA | X-Sampa | Type | Description          | Example Word |
+| ------- | --- | ------- | ---- | -------------------- | ------------ |
+| a       | a   | a       | V    | open front unrounded | **a**rrêt    |
+| an      | ã   | a~      | V    | nasal a              | b**an**c
+| k       | k   | k       | C    |
+| sh      | ʃ   | S       | C    |
+|
 
 Additional Phonemes:
 
