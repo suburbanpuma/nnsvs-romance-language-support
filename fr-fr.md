@@ -13,7 +13,7 @@ Additional Phonemes:
 
 | Phoneme | Description  | Description  |
 | ------- | ------------ | ------------ |
-| br      | Breath       | Respirez
+| br      | Breath       | ~~Respirez~~ Insipirez 
 | exh     | Exhale       | Expirez
 | pau     | Silence      | Pas de parole? pas de mots? période de silence?
 | sil     | Do not use   | Ne pas utiliser
