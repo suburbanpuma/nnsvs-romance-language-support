@@ -23,7 +23,7 @@ Phonemes:
 | z             |     |         | C    |                      |              |
 | ch            |     |         | C    |                      |              |
 | sh<sup>1</sup>|     |         | C    |                      |              | e**ch**ador
-| zh<sup>2</sup>|     |         |      |                      |              |
+| zh<sup>2</sup>|     |         | C    |                      |              |
 | f             |     |         | C    |                      |              |
 | v             |     |         | C    |                      |              |
 | x             |     |         | C    |                      |              |
