@@ -9,10 +9,10 @@ I don't speak french and this is a placeholder.
 
 Additional Phonemes:
 
-| Phoneme | Description |
-| ------- | ----------- |
-| br      | Breath / Respirez
-| exh     | Exhale / Expirez
-| pau     | Silence / Pas de parole (I don't know french...pas de mots? période de silence?)
-| sil     | Ne pas utiliser. (n'utilisez pas...?)
-| q       | Glottal stop / Consonne occlusive glottale
+| Phoneme | Description  | Description  |
+| ------- | ------------ | ------------ |
+| br      | Breath       | Respirez
+| exh     | Exhale       | Expirez
+| pau     | Silence      | Pas de parole? pas de mots? période de silence?
+| sil     | Do not use   | Ne pas utiliser
+| q       | Glottal stop | Consonne occlusive glottale
