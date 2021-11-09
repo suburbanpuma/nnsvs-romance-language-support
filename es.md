@@ -50,9 +50,9 @@ Additional Phonemes:
 | sil     | Do not use   | 
 | q       | Glottal stop | 
 
-<sup>1</sup> Is sometimes (rarely) used as an alterative to `[ll]`. Use `[ll]` instead in that case.
+<sup>1</sup> Is sometimes (rarely) used as an alterative to `[ll]` and `[y]`. Use `[ll]` instead in that case.
 
-<sup>2</sup> Use `[ll]` instead. Alternate pronuncation of ll for users from Argentina/The Southern Cone.
+<sup>2</sup> Use `[ll]` instead. Alternate pronuncation of ll (and sometimes "y") for users from Argentina/The Southern Cone.
 
 <sup>3</sup> Some speakers enounter "yeísmo", or the merging of "ll" and "y". These speakers can label "ll" as `[y]` instead to slightly reduce the amount of training data needed.
 
