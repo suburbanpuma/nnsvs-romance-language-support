@@ -50,7 +50,7 @@ Additional Phonemes:
 | sil     | Do not use   | 
 | q       | Glottal stop | 
 
-<sup>1</sup> Is sometimes (rarely) used as an alterative to `[ll]` and `[y]`. Use `[ll]` instead in that case.
+<sup>1</sup> Is sometimes (rarely) used as an alterative to `[ll]` and `[y]`. Use `[ll]` instead in cases where `[sh]` is used for "ll".
 
 <sup>2</sup> Use `[ll]` instead. Alternate pronuncation of ll (and sometimes "y") for users from Argentina/The Southern Cone.
 
