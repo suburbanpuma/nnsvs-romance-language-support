@@ -15,6 +15,6 @@ Additional Phonemes:
 | ------- | ------------ | ------------ |
 | br      | Breath       | ~~Respirez~~ Insipirez 
 | exh     | Exhale       | Expirez
-| pau     | Silence      | Pas de parole? pas de mots? période de silence?
+| pau     | Silence      | Silence
 | sil     | Do not use   | Ne pas utiliser
 | q       | Glottal stop | Consonne occlusive glottale
