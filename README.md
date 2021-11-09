@@ -22,7 +22,7 @@ Here are the "officially" supported languages so far:
 | Ontario French | 36 ~ 38       | ~                   | 2 ~ 3+ hr  | X
 
 Additionally, Ladin and Franco-Provençal support is included but cannot be verified.
-More languages are being added but for the initial release, the most "common" languages are supported. If you need a romance language that's not lsited then open an issue.
+More languages are being added but for the initial release, the most "common" languages are supported. If you need support for a romance language that is not listed above, please open an issue.
 
 ## Additional Info and Directions
 
