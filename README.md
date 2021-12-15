@@ -14,7 +14,7 @@ Here are the "officially" supported languages so far:
 | EU Portuguese  | 38 ~ 39       | O                   | 2 ~ 3+ hr  |
 | Catalan        | 35 ~ 40       | X                   | 1.5 ~ 2 hr |
 | Valencian      | 33 ~ 38       | X                   | 1.5 ~ 2 hr |
-| Italian        | 28 ~ 34       | X                   | 1 ~ 2 hr   |
+| Italian        | 28 ~ 34       | O                   | 1 ~ 2 hr   |
 | Sicilian       | 33 ~ 34       | X                   | 1.5 ~ 2 hr |
 | French         | 34 ~ 36       | O                   | 2 ~ 3+ hr  |
 | Belgian French | 34 ~ 35       | O                   | 2 ~ 3+ hr  | ~
