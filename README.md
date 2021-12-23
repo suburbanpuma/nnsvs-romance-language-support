@@ -9,12 +9,12 @@ The phoneme set is custom (somewhat based on arpabet) and has been carefully sel
 Here are the "officially" supported languages so far:
 | Language       | Num. Phonemes | Native Spk Verified | est. hours | Dict? |
 | -------------- | ------------- | ------------------- | ---------- | ----- |
-| Spanish        | 27 ~ 33       | O                   | 1 ~ 2 hr   | O
+| Spanish        | 27 ~ 33       | O                   | 1.5 ~ 2.5 hr| O
 | BR Portuguese  | 34 ~ 35       | O                   | 2 ~ 3+ hr  |
 | EU Portuguese  | 38 ~ 39       | O                   | 2 ~ 3+ hr  |
 | Catalan        | 35 ~ 40       | X                   | 1.5 ~ 2 hr |
 | Valencian      | 33 ~ 38       | X                   | 1.5 ~ 2 hr |
-| Italian        | 28 ~ 34       | O                   | 1 ~ 2 hr   |
+| Italian        | 28 ~ 34       | O                   | 1.5 ~ 2.5 hr|
 | Sicilian       | 33 ~ 34       | X                   | 1.5 ~ 2 hr |
 | French         | 34 ~ 36       | O                   | 2 ~ 3+ hr  |
 | Belgian French | 34 ~ 35       | O                   | 2 ~ 3+ hr  | ~
