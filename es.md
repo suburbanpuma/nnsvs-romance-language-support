@@ -32,7 +32,7 @@ Phonemes:
 | sh<sup>1</sup>|     |         | C    | REFERENCE ALLOPHONE  |              | e**ch**ador
 | zh<sup>2</sup>|     |         | C    | REFERENCE ALLOPHONE  |              |
 | f             |     |         | C    |                      | *f*ase       |
-| v             |     |         | C    |                      | mue*v*e, a*f*gano |
+| v             |     |         | C    |                      | a*f*gano |
 | x             |     |         | C    |                      | *j*amón, *g*eneral |
 | th            |     |         | C    |                      | eng: ba*th*  |
 | dh            |     |         | C    |                      | eng: *th*em  |
