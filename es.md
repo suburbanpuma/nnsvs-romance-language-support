@@ -15,7 +15,7 @@ Phonemes:
 | bv<sup>4</sup>|     |         | C    | Soft b               |              |
 | t             |     |         | C    |                      |              |
 | d             |     |         | C    |                      |              |
-| dj            |     |         | C    |                      |              |
+| dj            |     |         | C    |DO NOT LABEL. Allophone for `g` in front of some vowels and is handled contextually. |              |
 | k             |     |         | C    |                      |              |
 | g             |     |         | C    | Hard g               |              |
 | gh<sup>5</sup>| ɣ   | G       | C    | Soft g               |              |
