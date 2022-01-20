@@ -33,7 +33,7 @@ Phonemes:
 | ny            |     |         | C    |                      |              |
 | m             |     |         | C    |                      |              |
 | w             |     |         | S    |                      | nueve        |
-| y             |     |         | C    |                      |              |
+| y<sup>6</sup> |     |         | C+S  |                      | sayo, tierra             |
 | ll<sup>3</sup>|     |         | C    | palatal lateral approx |              |
 | r             |     |         | C    |                      |              |
 | rr            |     |         | C    |                      |              |
@@ -59,3 +59,5 @@ Additional Phonemes:
 <sup>4</sup> Some speakers merge the hard and soft "b" sounds. These speakers can label all "b" as `[b]` and ignore the `[bv]` phoneme. Speakers without this merger can also drop `[bv]` to simplify the dataset, which will cause most "b" will sound soft (due to more isntances of the soft sound in speech). Doing so creates a slight risk that the model may use a hard "b" at an incorrect time.
 
 <sup>5</sup> Some speakers merge the hard and soft "g" sounds. These speakers can label all "g" as `[g]` and ignore the `[gh]` phoneme. Speakers without this merger can also drop `[gh]` to simplify the dataset. Doing so creates a risk that the model may use the incorrect sound.
+
+<sup>6</sup> The `y` phoneme works as both a consonant AND semivowel. This is thanks to NNSVS being able to learn context.
