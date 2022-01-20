@@ -32,7 +32,7 @@ Phonemes:
 | sh<sup>1</sup>|     |         | C    | REFERENCE ALLOPHONE  |              | e**ch**ador
 | zh<sup>2</sup>|     |         | C    | REFERENCE ALLOPHONE  |              |
 | f             |     |         | C    |                      | *f*ase       |
-| v             |     |         | C    |                      | a*f*gano |
+| v<sup>7</sup> |     |         | C    | REFERENCE ALLOPHONE. DO NOT USE.  | a*f*gano |
 | x             |     |         | C    |                      | *j*amón, *g*eneral |
 | th            |     |         | C    |                      | eng: ba*th*  |
 | dh            |     |         | C    |                      | eng: *th*em  |
@@ -68,3 +68,5 @@ Additional Phonemes:
 <sup>5</sup> Some speakers merge the hard and soft "g" sounds. These speakers can label all "g" as `[g]` and ignore the `[gh]` phoneme. Speakers without this merger can also drop `[gh]` to simplify the dataset. Doing so creates a risk that the model may use the incorrect sound.
 
 <sup>6</sup> The `y` phoneme works as both a consonant AND semivowel. This is thanks to NNSVS being able to learn context.
+
+<sup>7</sup> `v` is an allophone of f before voiced consonants. Just use `f` since it's handled contextually.
