@@ -9,7 +9,7 @@ blank.table - Standard phonetic table. For training and using voices phoneticall
 
 Spanish:
 * es-base.table - Full phoneme Spanish dictioanry, with default trasncriptions. Includes phonemes that are dropped by most speakers and won't work for most.
-* es-simple.table - Spanish dictionary with [b] and [bv] merged. "ll" uses [y] phoneme.
+* es-simple.table - Spanish dictionary with [b]/[bv] and [g]/[gh] merged. "ll" uses [y] phoneme. Useful for non-native speakers.
 * es.table - Default Spanish dictionary, with more common pronuncation.
 * es-mx.table - Mexican Spanish dictionary.
 * es-ll.table - Argentinian Spanish dictionary. Same as es.table except "ll" has it's own phoneme.
