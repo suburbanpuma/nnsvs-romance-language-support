@@ -28,8 +28,9 @@ Phonemes:
 | gh<sup>5</sup>| ɣ   | G       | C    | Soft g               | ami*g*o, do*c*tor |
 | s             |     |         | C    |                      | *s*al        |
 | z             |     |         | C    |                      | i*s*la       |
-| ch            |     |         | C    |                      | *ch*iste     |
-| sh<sup>1</sup>|     |         | C    | REFERENCE ALLOPHONE  |              | e**ch**ador
+| ch            | tʃ  |         | C    |                      | *ch*iste     |
+| ts<sup>8/sup> | t s |         | C    | upper class chilean "ch" |               |                 |
+| sh<sup>1</sup>| ʃ   |         | C    | REFERENCE ALLOPHONE  |              | e**ch**ador
 | zh<sup>2</sup>|     |         | C    | REFERENCE ALLOPHONE  |              |
 | f             |     |         | C    |                      | *f*ase       |
 | v<sup>7</sup> |     |         | C    | REFERENCE ALLOPHONE. DO NOT USE.  | a*f*gano |
@@ -56,6 +57,7 @@ Additional Phonemes:
 | pau     | Silence      | 
 | sil     | Do not use   | 
 | q       | Glottal stop | 
+| cl      | closure      |
 
 <sup>1</sup> Is sometimes (rarely) used as an alterative to `[ll]` and `[y]`. Use `[ll]` instead in cases where `[sh]` is used for "ll".
 
@@ -70,3 +72,5 @@ Additional Phonemes:
 <sup>6</sup> The `y` phoneme works as both a consonant AND semivowel. This is thanks to NNSVS being able to learn context.
 
 <sup>7</sup> `v` is an allophone of f before voiced consonants. Just use `f` since it's handled contextually.
+  
+<sup>8/sup> `ts` is used intead of `ch` for upper-class chilaen speakers. Please refer to example audio.
