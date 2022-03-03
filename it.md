@@ -58,6 +58,7 @@ Additional Phonemes:
 | pau     | Silence      | 
 | sil     | Do not use   | 
 | q       | Glottal stop | 
+| cl      | Closure      |
 
 <sup>1</sup> It is possible to label as `[t][s]` instead of a unique phoneme
 
