@@ -29,7 +29,7 @@ Phonemes:
 | s             |     |         | C    |                      | *s*al        |
 | z             |     |         | C    |                      | i*s*la       |
 | ch            | tʃ  |         | C    |                      | *ch*iste     |
-| ts<sup>8/sup> | t s |         | C    | upper class chilean "ch" |               |                 |
+| ts<sup>8</sup> | t s |         | C    | upper class chilean "ch" |               |                 |
 | sh<sup>1</sup>| ʃ   |         | C    | REFERENCE ALLOPHONE  |              | e**ch**ador
 | zh<sup>2</sup>|     |         | C    | REFERENCE ALLOPHONE  |              |
 | f             |     |         | C    |                      | *f*ase       |
