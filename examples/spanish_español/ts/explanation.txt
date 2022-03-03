@@ -1,3 +1,3 @@
-In upper class chilean dialents, [ch] is sometimes replaces with [ts]. The [ts] phoneme is provided for this purpose.
+In upper class chilean dialents, [ch] is sometimes replaced with [ts]. The [ts] phoneme is provided for this purpose as it won't be picked up contextually.
 
 Credit to subpum for the recording.
