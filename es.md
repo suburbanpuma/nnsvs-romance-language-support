@@ -76,4 +76,4 @@ Additional Phonemes:
   
 <sup>8</sup> `ts` is used intead of `ch` for upper-class chilaen speakers. Please refer to example audio.
 
-<sup>9</sup> `x` covers all "h"/"soft J" sounds contextually. So only one phoneme is required.
+<sup>9</sup> `x` covers all "h"/"soft J" sounds contextually. So only one phoneme is required. For speakers who want to differenciate, the `h` phoneme could be used along with `x`. `h` being the glottal fricative and `x` being the velar fricative.
