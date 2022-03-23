@@ -29,12 +29,12 @@ Phonemes:
 | s             |     |         | C    |                      | *s*al        |
 | z             |     |         | C    |                      | i*s*la       |
 | ch            | tʃ  |         | C    |                      | *ch*iste     |
-| ts<sup>8</sup> | t s |         | C    | upper class chilean "ch" |               |                 |
+| ts<sup>8</sup>| t s |         | C    | upper class chilean "ch" |               |                 |
 | sh<sup>1</sup>| ʃ   |         | C    | REFERENCE ALLOPHONE  |              | e**ch**ador
 | zh<sup>2</sup>|     |         | C    | REFERENCE ALLOPHONE  |              |
 | f             |     |         | C    |                      | *f*ase       |
 | v<sup>7</sup> |     |         | C    | REFERENCE ALLOPHONE. DO NOT USE.  | a*f*gano |
-| x             |     |         | C    |                      | *j*amón, *g*eneral |
+| x<sup>9</sup> |     |         | C    |                      | *j*amón, *g*eneral |
 | th            |     |         | C    |                      | eng: ba*th*  |
 | dh            |     |         | C    |                      | eng: *th*em  |
 | n             |     |         | C    |                      | *n*ido, domi*ng*o |
@@ -75,3 +75,5 @@ Additional Phonemes:
 <sup>7</sup> `v` is an allophone of f before voiced consonants. Just use `f` since it's handled contextually.
   
 <sup>8/sup> `ts` is used intead of `ch` for upper-class chilaen speakers. Please refer to example audio.
+
+<sup>9</sup> `x` covers all "h"/"soft J" sounds contextually. So only one phoneme is required.
