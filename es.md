@@ -58,6 +58,7 @@ Additional Phonemes:
 | sil     | Do not use   | 
 | q       | Glottal stop | 
 | cl      | closure      |
+| vf      | vocal fry    |
 
 <sup>1</sup> Is sometimes (rarely) used as an alterative to `[ll]` and `[y]`. Use `[ll]` instead in cases where `[sh]` is used for "ll".
 
