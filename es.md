@@ -74,6 +74,6 @@ Additional Phonemes:
 
 <sup>7</sup> `v` is an allophone of f before voiced consonants. Just use `f` since it's handled contextually.
   
-<sup>8/sup> `ts` is used intead of `ch` for upper-class chilaen speakers. Please refer to example audio.
+<sup>8</sup> `ts` is used intead of `ch` for upper-class chilaen speakers. Please refer to example audio.
 
 <sup>9</sup> `x` covers all "h"/"soft J" sounds contextually. So only one phoneme is required.
