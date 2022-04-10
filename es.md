@@ -76,6 +76,6 @@ Additional Phonemes:
   
 <sup>8</sup> `ts` is used intead of `ch` for upper-class chilean speakers. Please refer to example audio.
 For lower-class chilean speakers, `ch` is replaced with `sh`.
-NOTE: STILL LABEL AS `ch` FOR DICTIONARY COMPATIBILITY AND USAGE CONSISTENCY.
+NOTE: STILL LABEL AS `ch` FOR DICTIONARY COMPATIBILITY AND USAGE CONSISTENCY. ALSO READ THE EXPLANATION. If a speaker mixes between the two then use both phonemes . But if they almost always replace the sound then follow that guidance.
 
 <sup>9</sup> `x` covers all "h"/"soft J" sounds contextually. So only one phoneme is required. For speakers who want to differenciate, the `h` phoneme could be used along with `x`. `h` being the glottal fricative and `x` being the velar fricative. Note this will increase the amount of data required and won't be supported in the dictionary.
