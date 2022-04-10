@@ -75,7 +75,7 @@ Additional Phonemes:
 <sup>7</sup> `v` is an allophone of f before voiced consonants. Just use `f` since it's handled contextually.
   
 <sup>8</sup> `ts` is used intead of `ch` for upper-class chilean speakers. Please refer to example audio.
-For lower-class chilean speakers, `ch` is replaced with `t` `s`.
+For lower-class chilean speakers, `ch` is replaced with `sh`.
 NOTE: STILL LABEL AS `ch` FOR DICTIONARY COMPATIBILITY AND USAGE CONSISTENCY.
 
 <sup>9</sup> `x` covers all "h"/"soft J" sounds contextually. So only one phoneme is required. For speakers who want to differenciate, the `h` phoneme could be used along with `x`. `h` being the glottal fricative and `x` being the velar fricative. Note this will increase the amount of data required and won't be supported in the dictionary.
