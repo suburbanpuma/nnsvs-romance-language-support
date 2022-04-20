@@ -26,8 +26,8 @@ Phonemes:
 | k             |     |         | C    |                      | *c*asa, *k*ilo |
 | g             |     |         | C    | Hard g               | *g*ato             |
 | gh<sup>5</sup>| ɣ   | G       | C    | Soft g               | ami*g*o, do*c*tor |
-| s             |     |         | C    |                      | *s*al        |
-| z             |     |         | C    |                      | i*s*la       |
+| s             |     |         | C    | s and z sounds       | *s*al, i*s*la|
+| z<sup>10</sup>|     |         | C    |                      | ca**z**ar    |
 | ch            | tʃ  |         | C    |                      | *ch*iste     |
 | ts<sup>8</sup>| t s |         | C    | upper-class chilean "ch" |               |                 |
 | sh<sup>1</sup>| ʃ   |         | C    | REFERENCE ALLOPHONE  |              | e**ch**ador
@@ -35,7 +35,6 @@ Phonemes:
 | f             |     |         | C    |                      | *f*ase       |
 | v<sup>7</sup> |     |         | C    | REFERENCE ALLOPHONE. DO NOT USE.  | a*f*gano |
 | x<sup>9</sup> |     |         | C    |                      | *j*amón, *g*eneral |
-| th            |     |         | C    |                      | eng: ba*th*  |
 | dh            |     |         | C    |                      | eng: *th*em  |
 | n             |     |         | C    |                      | *n*ido, domi*ng*o |
 | ny            |     |         | C    |                      | ñ            |
@@ -79,3 +78,5 @@ For lower-class chilean speakers, `ch` is replaced with `sh`.
 NOTE: STILL LABEL AS `ch` FOR DICTIONARY COMPATIBILITY AND USAGE CONSISTENCY. ALSO READ THE EXPLANATION. If a speaker mixes between the two then use both phonemes . But if they almost always replace the sound then follow that guidance.
 
 <sup>9</sup> `x` covers all "h"/"soft J" sounds contextually. So only one phoneme is required. For speakers who want to differenciate, the `h` phoneme could be used along with `x`. `h` being the glottal fricative and `x` being the velar fricative. Note this will increase the amount of data required and won't be supported in the dictionary.
+
+<sup>10</sup> `z` used to be for sounds like the voiced "s" in "isla". However NNSVS handles this contextually and only `s` is needed for both cases. Just use `s` as an ending consonant in a note for proper context. This was changed at some point and now does the lexical "z" sound in words like "cazar" instead of `th`. If you are using an older dataset, you'll need to convert `th` to `z` and `z` to `s`.
