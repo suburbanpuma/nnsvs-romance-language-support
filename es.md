@@ -35,7 +35,7 @@ Phonemes:
 | f             |     |         | C    |                      | *f*ase       |
 | v<sup>7</sup> |     |         | C    | REFERENCE ALLOPHONE. DO NOT USE.  | a*f*gano |
 | x<sup>9</sup> |     |         | C    |                      | *j*amón, *g*eneral |
-| dh            |     |         | C    |                      | eng: *th*em  |
+| dh            |     |         | C    | Soft d               | de*d*o       |
 | n             |     |         | C    |                      | *n*ido, domi*ng*o |
 | ny            |     |         | C    |                      | ñ            |
 | m             |     |         | C    |                      | *m*esa       |
