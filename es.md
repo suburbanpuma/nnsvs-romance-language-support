@@ -1,4 +1,4 @@
-Spanish Phoneme set
+Cleaned up reference provided by Subpum
 
 |   | Type    |
 | - | ------- |
@@ -6,77 +6,93 @@ Spanish Phoneme set
 | V |Vowel    |
 | S |Semivowel|
 
+## Other:
 
-Phonemes:
+| Phoneme | X-SAMPA | Description |
+| ------- | ------- | ----------- |
+| br      |         | Inhale      |
+| exh     |         | Exhale      |
+| axh     |         | Voiced exhale|
+| pau     |         | Silence     |
+| q       | ?       | Glottal Stop|
+| cl      |         | closure (held consonants) |
+| vf      |         | Vocal Fry   |
+| trash   |         | junk phoneme| 
 
-| Phoneme       | IPA | X-Sampa | Type | Description          | Example Word | Mexican Example |
-| ------------- | --- | ------- | ---- | -------------------- | ------------ | --------------- |
-| a             | a   | a       | V    | open fr unrounded    | c*a*sa     |
-| e             | e   | e       | V    | cl-mid fr unrounded  | m*e*sa     |
-| i             | i   | i       | V    | cl front unrounded   | *i*sla     |
-| o             | o   | o       | V    | cl-mid back rounded  | gat*o*     |
-| u             | u   | u       | V    | cl back rounded      | *u*no      |
-| ------------- |     |         |      |                      |              |
-| p             |     |         | C    |                      | *p*ollo      |
-| b             |     |         | C    | Hard b               | *b*estia, en*v*idia |
-| bh<sup>4</sup>|     |         | C    | Soft b               | be*b*é, vi*v*a |
-| t             |     |         | C    |                      | *t*ango      |
-| d             |     |         | C    |                      | *d*edo       |
-| dj            |     |         | C    |DO NOT LABEL. Allophone for `g` in front of some vowels and is handled contextually. |              |
-| k             |     |         | C    |                      | *c*asa, *k*ilo |
-| g             |     |         | C    | Hard g               | *g*ato             |
-| gh<sup>5</sup>| ɣ   | G       | C    | Soft g               | ami*g*o, do*c*tor |
-| s             |     |         | C    | s and z sounds       | *s*al, i*s*la|
-| z<sup>10</sup>|     |         | C    |                      | ca**z**ar    |
-| ch            | tʃ  |         | C    |                      | *ch*iste     |
-| ts<sup>8</sup>| t s |         | C    | upper-class chilean "ch" |               |                 |
-| sh<sup>1</sup>| ʃ   |         | C    | REFERENCE ALLOPHONE  |              | e**ch**ador
-| zh<sup>2</sup>|     |         | C    | REFERENCE ALLOPHONE  |              |
-| f             |     |         | C    |                      | *f*ase       |
-| v<sup>7</sup> |     |         | C    | REFERENCE ALLOPHONE. DO NOT USE.  | a*f*gano |
-| x<sup>9</sup> |     |         | C    |                      | *j*amón, *g*eneral |
-| dh            |     |         | C    | Soft d               | de*d*o       |
-| n             |     |         | C    |                      | *n*ido, domi*ng*o |
-| ny            |     |         | C    |                      | ñ            |
-| m             |     |         | C    |                      | *m*esa       |
-| w             |     |         | S    |                      | n*u*eve, c*u*anto |
-| y<sup>6</sup> |     |         | C+S  |                      | sayo, tierra |
-| ll<sup>3</sup>|     |         | C    |palatal lateral approx|              |
-| r             |     |         | C    |                      | ca*r*o       |
-| rr            |     |         | C    |                      | pe*rr*o      |
-| l             |     |         | C    |                      | *l*ino, a*l*tar |
+## Vowels:
 
-Additional Phonemes:
+| Phoneme | X-SAMPA | Explaination                    | Example                                 |
+|---------|---------|---------------------------------|-----------------------------------------|
+| a       | a       | central open unrounded vowel    | <ins><b>A</ins></b>n<ins><b>a</ins></b> |
+| e       | e       | close-mid front unrounded vowel | <ins><b>E</ins></b>va                   |
+| i       | i       | close front unrounded vowel     | L<ins><b>i</ins></b>nda                 |
+| o       | o       | close-mid back rounded vowel    | T<ins><b>o</ins></b>pe                  |
+| u       | u       | close back rounded vowel        | <ins><b>U</ins></b>no                   |
 
-| Phoneme | Description  | Descripción |
-| ------- | ------------ | ----------- |
-| br      | Breath       | 
-| exh     | Exhale       | 
-| axh     | Voiced Exhale|
-| pau     | Silence      | 
-| sil     | Do not use   | 
-| q       | Glottal stop | 
-| cl      | closure      |
-| vf      | vocal fry    |
+## Semi-Vowels:
+(Semi-vowels function as consonants and perfrom "diphthong-like" tasks.)
+| Phoneme | X-SAMPA | Explaination                    | Example                                 |
+|---------|---------|---------------------------------|-----------------------------------------|
+| y       | j       | palatal approximant      | A<ins><b>i</ins></b>re (a <ins><b>y</ins></b> r e), t<ins><b>i</ins></b>erra (t <ins><b>y</ins></b> e rr a), sa<ins><b>y</ins></b>o (s a <ins><b>y</ins></b> o) |
+| w       | w       | labial-velar approximant | Pa<ins><b>u</ins></b>sa (p a <ins><b>w</ins></b> s a), f<ins><b>u</ins></b>ego (f <ins><b>w</ins></b> e gg o)                                                   |
 
-<sup>1</sup> Is sometimes (rarely) used as an alterative to `[ll]` and `[y]`. Use `[ll]` instead in cases where `[sh]` is used for "ll".
+Consonants:
 
-<sup>2</sup> Use `[ll]` instead. Alternate pronuncation of ll (and sometimes "y") for users from Argentina/The Southern Cone.
+| Phoneme | X-SAMPA | Explanation                        | Example                   |
+|---------|---------|------------------------------------|---------------------------|
+| b       | b       | voiced bilabial plosive            | <ins><b>b</ins></b>año (<ins><b>b</ins></b> a ny o)           |
+| bh      | B       | voiced bilabial fricative          | abaco (a bh a k o)        |
+| ch      | tS      | voiceless postalveolar affricate   | choripan (ch o r i p a n) |
+| d       | d       | voiced alveolar plosive            | día (d i a)               |
+| dh      | D       | voiced dental fricative            | andina (a n dh i n a)     |
+| f       | f       | voiceless labiodental fricative    | farol (f a r o l)         |
+| g       | g       | voiced velar plosive               | gato (g a t o)            |
+| gh      | G       | voiced velar fricative             | agua (a gh w a)           |
+| k       | k       | voiceless velar plosive            | casa (k a s a)            |
+| l       | l       | lateral alveolar approximant       | lame (l a m e)            |
+| ll      | L       | voiced palatal lateral approximant | pollo (p o ll o)          |
+| m       | m       | bilabial nasal                     | madre (m a d r e)         |
+| n       | n       | alveolar nasal                     | nadie (n a d j e)         |
+| ny      | J       | palatal nasal                      | ñoquis (ny o k i s)       |
+| p       | p       | voiceless bilabial plosive         | puerta (p w e r t a)      |
+| r       | 4       | alveolar flap                      | larga (l a r g a)         |
+| rr      | r       | alveolar trill                     | rara (rr a r a)           |
+| s       | s       | voiceless alveolar fricative       | suena (s w e n a)         |
+| sh      | S       | voiceless postalveolar fricative   | show (sh o w)             |
+| t       | t       | voiceless alveolar plosive         | tema (t e m a)            |
+| x       | x       | voiceless velar fricative          | jamón (x a m o n)         |
+| y       | j\      | voiced palatal fricative           | yace (y a s e)            |
+| z       | T       | voiced alveolar fricative          | zeta (z e t a)            |
 
-<sup>3</sup> Some speakers enounter "yeísmo", or the merging of "ll" and "y". These speakers can label "ll" as `[y]` instead to slightly reduce the amount of training data needed.
 
-<sup>4</sup> Some speakers merge the hard and soft "b" sounds. These speakers can label all "b" as `[b]` and ignore the `[bh]` phoneme. Speakers without this merger can also drop `[bh]` to simplify the dataset, which will cause most "b" will sound soft (due to more instances of the soft sound in speech). Doing so creates a slight risk that the model may use a hard "b" at an incorrect time.
+## Dialect Allophones:
+READ THE NOTES for how to handle these.
 
-<sup>5</sup> Some speakers merge the hard and soft "g" sounds. These speakers can label all "g" as `[g]` and ignore the `[gh]` phoneme. Speakers without this merger can also drop `[gh]` to simplify the dataset. Doing so creates a risk that the model may use the incorrect sound.
+| Phoneme | X-SAMPA | Explanation                           | Example               | Dialect                                               |
+|---------|---------|---------------------------------------|-----------------------|-------------------------------------------------------|
+| ts      | ts      | voiceless alveolar sibilant affricate | chala (ts a l a)      | Reference allophone for ch.                           |
+| zh      | Z       | voiced postalveolar fricative         |                       | Reference allophone for ch.                           |
+| sh      | S       | voiceless postalveolar fricative      | chala (sh a l a)      | Reference allophone for ll/ch.                        |
+| h       | h       | voiceless glottal fricative           | obispo (o bv i h p o) | Reference allophone for s/x.                          |
+| v       | v       | voiced labiodental fricative          | afgano (a v gh a n o) | Reference allophone for f (before voiced consonants). |
+| dj      |         |                                       |                       | Reference allophone for g (before some vowels).       |
+| ng      | N       | velar nasal                           | dingo (d i ng g o)    | Reference allophone for n (before velar consonants).  |
 
-<sup>6</sup> The `y` phoneme works as both a consonant AND semivowel. This is thanks to NNSVS being able to learn context.
 
-<sup>7</sup> `v` is an allophone of f before voiced consonants. Just use `f` since it's handled contextually.
+Notes:
+* `sh` and `zh` are sometimes used as allophones for `ll`. Still label it as `ll` for dictionary compatiblity. However, these phonmemes are useful for foreign words.
   
-<sup>8</sup> `ts` is used intead of `ch` for upper-class chilean speakers. Please refer to example audio.
-For lower-class chilean speakers, `ch` is replaced with `sh`.
-NOTE: STILL LABEL AS `ch` FOR DICTIONARY COMPATIBILITY AND USAGE CONSISTENCY. ALSO READ THE EXPLANATION. If a speaker mixes between the two then use both phonemes . But if they almost always replace the sound then follow that guidance.
+* Some speakers enounter "yeísmo", or the merging of "ll" and "y". These speakers can label "ll" as `y` instead to slightly reduce the amount of training data needed.
+  
+* Some speakers merge the hard and soft "b/d/g" sounds. These speakers can label all "b/d/g" as [`b`/`d`/`g`] and ignore the [`bh`/`dh`/`gh`] phonemes. Speakers without this merger can also drop [`bh`/`dh`/`gh`] to simplify the dataset, which will cause most "b/d/g” instances to sound softer (due to more instances of the soft sound in speech). Doing so also creates a slight risk that the model may use a hard "b/d/g" at an incorrect time.
+  
+* The `y` phoneme works as both a consonant AND semivowel. This is thanks to NNSVS being able to learn context.
+  
+* `x` covers all "h/soft J/aspirated s" sounds contextually. So only one phoneme is required. For speakers who want to differentiate, the `h` phoneme could be used along with the others. Note that this will increase the amount of data required and won't be supported in the dictionary.
 
-<sup>9</sup> `x` covers all "h"/"soft J" sounds contextually. So only one phoneme is required. For speakers who want to differenciate, the `h` phoneme could be used along with `x`. `h` being the glottal fricative and `x` being the velar fricative. Note this will increase the amount of data required and won't be supported in the dictionary.
+* `f` is used for both devoiced "f" and voiced "v" sounds.
 
-<sup>10</sup> `z` used to be for sounds like the voiced "s" in "isla". However NNSVS handles this contextually and only `s` is needed for both cases. Just use `s` as an ending consonant in a note for proper context. This was changed at some point and now does the lexical "z" sound in words like "cazar" instead of `th`. If you are using an older dataset, you'll need to convert `th` to `z` and `z` to `s`.
+Chilean speaker notes: 
+* Upper-class speakers use `ts` instead of `ch`.
+* Lower-class speakers use `sh` instead of `ch`.
+* In most cases you should still label these as `ch` for dictionary compatiblity. Only differenciate if the speaker between `ts`/`sh` and `ch` (optional).
