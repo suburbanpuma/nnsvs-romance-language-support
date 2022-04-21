@@ -5,6 +5,7 @@
 
 #ENUNU specific flags.
 
+#tone flags
 QS      "falsetto"                               {*^F_*}
 QS      "head voice"                             {*^H_*}
 QS      "soft"                                   {*^SF_*}
@@ -20,11 +21,11 @@ QS      "young_higher_formant"                   {*^Y_*}
 QS      "older_lower_formant"                    {*^O_*}
 QS      "thin"                                   {*^T_*}
 QS      "fry_rattle"                             {*^R_*}
-
+#emotion flags
 QS      "happy"                                  {*^HPY_*}
 QS      "sad"                                    {*^SAD_*}
 QS      "mad"                                    {*^MAD_*}
-
+#custom flags
 QS      "additional_1"                           {*^1_*}
 QS      "additional_2"                           {*^2_*}
 QS      "additional_3"                           {*^3_*}
