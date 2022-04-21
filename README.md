@@ -1,5 +1,5 @@
 # nnsvs-romance-language-support
-Hed and Supporting Files for Romance Language NNSVS Dataset Creation 
+HED and Supporting Files for Romance Language NNSVS Dataset Creation 
 
 This repo contains the files required to create a romance language dataset for use in NNSVS.
 Additionally, instructions and examples are provided (or will be provided) for the labeling process.
@@ -49,9 +49,9 @@ You can change the hed file in config.yaml, this is found at `/train/config.yaml
 NOTE: please change the value of "in_dim" in `/train/conf/train/*/model/*.yaml`
 The values should be set as follows if using "DynamiVox_Romance.hed":
 
-* acoustic: 308
-* duration: 304
-* timelag: 304
+* acoustic: 332
+* duration: 328
+* timelag: 328
 
 Training will not work if these values are incorrect.
 
