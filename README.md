@@ -39,7 +39,7 @@ the /dic folder contains several files:
 You can change the hed file in config.yaml, this is found at `/train/config.yaml`.
 
 NOTE: please change the value of "in_dim" in `/train/conf/train/*/model/*.yaml`
-The values should be set as follows if using "DynamiVox_Romance.hed":
+The values should be set as follows if using "DVX_Romance.hed":
 
 * acoustic: 332
 * duration: 328
