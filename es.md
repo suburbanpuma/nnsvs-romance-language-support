@@ -1,11 +1,5 @@
 Cleaned up reference provided by Subpum
 
-|   | Type    |
-| - | ------- |
-| C |Consonant|
-| V |Vowel    |
-| S |Semivowel|
-
 ## Other:
 
 | Phoneme | X-SAMPA | Description |
@@ -36,47 +30,47 @@ Cleaned up reference provided by Subpum
 | y       | j       | palatal approximant      | A<ins><b>i</ins></b>re (a <ins><b>y</ins></b> r e), t<ins><b>i</ins></b>erra (t <ins><b>y</ins></b> e rr a), sa<ins><b>y</ins></b>o (s a <ins><b>y</ins></b> o) |
 | w       | w       | labial-velar approximant | Pa<ins><b>u</ins></b>sa (p a <ins><b>w</ins></b> s a), f<ins><b>u</ins></b>ego (f <ins><b>w</ins></b> e gg o)                                                   |
 
-Consonants:
+## Consonants:
 
 | Phoneme | X-SAMPA | Explanation                        | Example                   |
 |---------|---------|------------------------------------|---------------------------|
 | b       | b       | voiced bilabial plosive            | <ins><b>b</ins></b>año (<ins><b>b</ins></b> a ny o)           |
-| bh      | B       | voiced bilabial fricative          | abaco (a bh a k o)        |
-| ch      | tS      | voiceless postalveolar affricate   | choripan (ch o r i p a n) |
-| d       | d       | voiced alveolar plosive            | día (d i a)               |
-| dh      | D       | voiced dental fricative            | andina (a n dh i n a)     |
-| f       | f       | voiceless labiodental fricative    | farol (f a r o l)         |
-| g       | g       | voiced velar plosive               | gato (g a t o)            |
-| gh      | G       | voiced velar fricative             | agua (a gh w a)           |
-| k       | k       | voiceless velar plosive            | casa (k a s a)            |
-| l       | l       | lateral alveolar approximant       | lame (l a m e)            |
-| ll      | L       | voiced palatal lateral approximant | pollo (p o ll o)          |
-| m       | m       | bilabial nasal                     | madre (m a d r e)         |
-| n       | n       | alveolar nasal                     | nadie (n a d j e)         |
-| ny      | J       | palatal nasal                      | ñoquis (ny o k i s)       |
-| p       | p       | voiceless bilabial plosive         | puerta (p w e r t a)      |
-| r       | 4       | alveolar flap                      | larga (l a r g a)         |
-| rr      | r       | alveolar trill                     | rara (rr a r a)           |
-| s       | s       | voiceless alveolar fricative       | suena (s w e n a)         |
-| sh      | S       | voiceless postalveolar fricative   | show (sh o w)             |
-| t       | t       | voiceless alveolar plosive         | tema (t e m a)            |
-| x       | x       | voiceless velar fricative          | jamón (x a m o n)         |
-| y       | j\      | voiced palatal fricative           | yace (y a s e)            |
-| z       | T       | voiced alveolar fricative          | zeta (z e t a)            |
+| bh      | B       | voiced bilabial fricative          | a<ins><b>b</ins></b>aco (a <ins><b>bh</ins></b> a k o)        |
+| ch      | tS      | voiceless postalveolar affricate   | <ins><b>ch</ins></b>oripan (<ins><b>ch</ins></b> o r i p a n) |
+| d       | d       | voiced alveolar plosive            | <ins><b>d</ins></b>ía (<ins><b>d</ins></b> i a)               |
+| dh      | D       | voiced dental fricative            | an<ins><b>d</ins></b>ina (a n <ins><b>dh</ins></b> i n a)     |
+| f       | f       | voiceless labiodental fricative    | <ins><b>f</ins></b>arol (<ins><b>f</ins></b> a r o l)         |
+| g       | g       | voiced velar plosive               | <ins><b>ga</ins></b>to (<ins><b>g</ins></b> a t o)            |
+| gh      | G       | voiced velar fricative             | a<ins><b>g</ins></b>ua (a <ins><b>gh</ins></b> w a)           |
+| k       | k       | voiceless velar plosive            | <ins><b>c</ins></b>asa (<ins><b>k</ins></b> a s a)            |
+| l       | l       | lateral alveolar approximant       | <ins><b>l</ins></b>ame (<ins><b>l</ins></b> a m e)            |
+| ll      | L       | voiced palatal lateral approximant | po<ins><b>ll</ins></b>o (p o <ins><b>ll</ins></b> o)          |
+| m       | m       | bilabial nasal                     | <ins><b>m</ins></b>adre (<ins><b>m</ins></b> a d r e)         |
+| n       | n       | alveolar nasal                     | <ins><b>n</ins></b>adie (<ins><b>n</ins></b> a d j e)         |
+| ny      | J       | palatal nasal                      | <ins><b>ñ</ins></b>oquis (<ins><b>ny</ins></b> o k i s)       |
+| p       | p       | voiceless bilabial plosive         | <ins><b>p</ins></b>uerta (<ins><b>p</ins></b> w e r t a)      |
+| r       | 4       | alveolar flap                      | la<ins><b>r</ins></b>ga (l a <ins><b>r</ins></b> g a)         |
+| rr      | r       | alveolar trill                     | <ins><b>r</ins></b>ara (<ins><b>rr</ins></b> a r a)           |
+| s       | s       | voiceless alveolar fricative       | <ins><b>s</ins></b>uena (<ins><b>s</ins></b> w e n a)         |
+| sh      | S       | voiceless postalveolar fricative   | <ins><b>sh</ins></b>ow (<ins><b>sh</ins></b> o w)             |
+| t       | t       | voiceless alveolar plosive         | <ins><b>t</ins></b>ema (<ins><b>t</ins></b> e m a)            |
+| x       | x       | voiceless velar fricative          | <ins><b>j</ins></b>amón (<ins><b>x</ins></b> a m o n)         |
+| y       | j\      | voiced palatal fricative           | <ins><b>y</ins></b>ace (<ins><b>y</ins></b> a s e)            |
+| z       | T       | voiced alveolar fricative          | <ins><b>z</ins></b>eta (<ins><b>z</ins></b> e t a)            |
 
 
 ## Dialect Allophones:
-READ THE NOTES for how to handle these.
+READ THE NOTES for how to handle these. Most of these will <ins><b>never</ins></b> be used.
 
 | Phoneme | X-SAMPA | Explanation                           | Example               | Dialect                                               |
 |---------|---------|---------------------------------------|-----------------------|-------------------------------------------------------|
-| ts      | ts      | voiceless alveolar sibilant affricate | chala (ts a l a)      | Reference allophone for ch.                           |
+| ts      | ts      | voiceless alveolar sibilant affricate | <ins><b>ch</ins></b>ala (<ins><b>ts</ins></b> a l a)      | Reference allophone for ch.                           |
 | zh      | Z       | voiced postalveolar fricative         |                       | Reference allophone for ch.                           |
-| sh      | S       | voiceless postalveolar fricative      | chala (sh a l a)      | Reference allophone for ll/ch.                        |
-| h       | h       | voiceless glottal fricative           | obispo (o bv i h p o) | Reference allophone for s/x.                          |
-| v       | v       | voiced labiodental fricative          | afgano (a v gh a n o) | Reference allophone for f (before voiced consonants). |
+| sh      | S       | voiceless postalveolar fricative      | <ins><b>ch</ins></b>ala (<ins><b>sh</ins></b> a l a)      | Reference allophone for ll/ch.                        |
+| h       | h       | voiceless glottal fricative           | obi<ins><b>s</ins></b>po (o bv i <ins><b>h</ins></b> p o) | Reference allophone for s/x.                          |
+| v       | v       | voiced labiodental fricative          | a<ins><b>f</ins></b>gano (a <ins><b>v</ins></b> gh a n o) | Reference allophone for f (before voiced consonants). |
 | dj      |         |                                       |                       | Reference allophone for g (before some vowels).       |
-| ng      | N       | velar nasal                           | dingo (d i ng g o)    | Reference allophone for n (before velar consonants).  |
+| ng      | N       | velar nasal                           | di<ins><b>n</ins></b>go (d i <ins><b>ng</ins></b> g o)    | Reference allophone for n (before velar consonants).  |
 
 
 Notes:
@@ -92,7 +86,7 @@ Notes:
 
 * `f` is used for both devoiced "f" and voiced "v" sounds.
 
-Chilean speaker notes: 
+#### Chilean speaker notes: 
 * Upper-class speakers use `ts` instead of `ch`.
 * Lower-class speakers use `sh` instead of `ch`.
 * In most cases you should still label these as `ch` for dictionary compatiblity. Only differenciate if the speaker between `ts`/`sh` and `ch` (optional).
