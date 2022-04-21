@@ -49,12 +49,9 @@ You can change the hed file in config.yaml, this is found at `/train/config.yaml
 NOTE: please change the value of "in_dim" in `/train/conf/train/*/model/*.yaml`
 The values should be set as follows if using "DynamiVox_Romance.hed":
 
-* acoustic_conv.yaml: 389
-* acoustic_mdn.yaml: 389
-* duration_lstm.yaml: 385
-* duration_mdn.yaml: 385
-* timelag_ffn.yaml: 385
-* timelag_mdn.yaml: 385
+* acoustic: 308
+* duration: 304
+* timelag: 304
 
 Training will not work if these values are incorrect.
 
