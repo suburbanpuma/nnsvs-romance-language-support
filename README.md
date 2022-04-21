@@ -31,15 +31,7 @@ Two hed files are included. A minimal and full hed file. Both should work for NN
 
 LANG.md files are provided that give descriptions of the phonemes for each language along with examples.
 
-This phoneme set is NOT COMPLETELY COMPATIBLE with Arpabet.
-There are several additions/changes that cause the DynamiVox phoneme set to not be 1:1.
-However, the basic phoneme section should be about the same.
-
-"DynamiVox Phone Ref.txt" is a cleaned up phoneme document for reference while labeling.
-
 the /dic folder contains several files:  
-/romance.conf - phoneme information  
-/romance.macron  
 /[LANG].table - dictionaries for various lanugages.
 /blank.table - basic dictionary for phonetic training (universal for all languages)
 /table license.txt - license and source info for dictionaries  
