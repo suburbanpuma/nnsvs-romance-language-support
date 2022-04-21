@@ -19,7 +19,7 @@ Phonemes:
 | ------------- |     |         |      |                      |              |
 | p             |     |         | C    |                      | *p*ollo      |
 | b             |     |         | C    | Hard b               | *b*estia, en*v*idia |
-| bv<sup>4</sup>|     |         | C    | Soft b               | be*b*é, vi*v*a |
+| bh<sup>4</sup>|     |         | C    | Soft b               | be*b*é, vi*v*a |
 | t             |     |         | C    |                      | *t*ango      |
 | d             |     |         | C    |                      | *d*edo       |
 | dj            |     |         | C    |DO NOT LABEL. Allophone for `g` in front of some vowels and is handled contextually. |              |
@@ -65,7 +65,7 @@ Additional Phonemes:
 
 <sup>3</sup> Some speakers enounter "yeísmo", or the merging of "ll" and "y". These speakers can label "ll" as `[y]` instead to slightly reduce the amount of training data needed.
 
-<sup>4</sup> Some speakers merge the hard and soft "b" sounds. These speakers can label all "b" as `[b]` and ignore the `[bv]` phoneme. Speakers without this merger can also drop `[bv]` to simplify the dataset, which will cause most "b" will sound soft (due to more isntances of the soft sound in speech). Doing so creates a slight risk that the model may use a hard "b" at an incorrect time.
+<sup>4</sup> Some speakers merge the hard and soft "b" sounds. These speakers can label all "b" as `[b]` and ignore the `[bh]` phoneme. Speakers without this merger can also drop `[bh]` to simplify the dataset, which will cause most "b" will sound soft (due to more instances of the soft sound in speech). Doing so creates a slight risk that the model may use a hard "b" at an incorrect time.
 
 <sup>5</sup> Some speakers merge the hard and soft "g" sounds. These speakers can label all "g" as `[g]` and ignore the `[gh]` phoneme. Speakers without this merger can also drop `[gh]` to simplify the dataset. Doing so creates a risk that the model may use the incorrect sound.
 
