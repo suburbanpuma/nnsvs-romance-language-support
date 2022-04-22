@@ -28,7 +28,7 @@ Cleaned up reference provided by subpum
 | Phoneme | X-SAMPA | Explaination                    | Example                                 |
 |---------|---------|---------------------------------|-----------------------------------------|
 | y       | j       | palatal approximant      | A<ins><b>i</ins></b>re (a <ins><b>y</ins></b> r e), t<ins><b>i</ins></b>erra (t <ins><b>y</ins></b> e rr a), sa<ins><b>y</ins></b>o (s a <ins><b>y</ins></b> o) |
-| w       | w       | labial-velar approximant | Pa<ins><b>u</ins></b>sa (p a <ins><b>w</ins></b> s a), f<ins><b>u</ins></b>ego (f <ins><b>w</ins></b> e gg o)                                                   |
+| w       | w       | labial-velar approximant | Pa<ins><b>u</ins></b>sa (p a <ins><b>w</ins></b> s a), f<ins><b>u</ins></b>ego (f <ins><b>w</ins></b> e gh o)                                                   |
 
 ## Consonants:
 
@@ -45,11 +45,11 @@ Cleaned up reference provided by subpum
 | k       | k       | voiceless velar plosive            | <ins><b>c</ins></b>asa (<ins><b>k</ins></b> a s a)            |
 | l       | l       | lateral alveolar approximant       | <ins><b>l</ins></b>ame (<ins><b>l</ins></b> a m e)            |
 | ll      | L       | voiced palatal lateral approximant | po<ins><b>ll</ins></b>o (p o <ins><b>ll</ins></b> o)          |
-| m       | m       | bilabial nasal                     | <ins><b>m</ins></b>adre (<ins><b>m</ins></b> a d r e)         |
-| n       | n       | alveolar nasal                     | <ins><b>n</ins></b>adie (<ins><b>n</ins></b> a d j e)         |
+| m       | m       | bilabial nasal                     | <ins><b>m</ins></b>adre (<ins><b>m</ins></b> a dh r e)         |
+| n       | n       | alveolar nasal                     | <ins><b>n</ins></b>adie (<ins><b>n</ins></b> a dh j e)         |
 | ny      | J       | palatal nasal                      | <ins><b>ñ</ins></b>oquis (<ins><b>ny</ins></b> o k i s)       |
 | p       | p       | voiceless bilabial plosive         | <ins><b>p</ins></b>uerta (<ins><b>p</ins></b> w e r t a)      |
-| r       | 4       | alveolar flap                      | la<ins><b>r</ins></b>ga (l a <ins><b>r</ins></b> g a)         |
+| r       | 4       | alveolar flap                      | la<ins><b>r</ins></b>ga (l a <ins><b>r</ins></b> gh a)         |
 | rr      | r       | alveolar trill                     | <ins><b>r</ins></b>ara (<ins><b>rr</ins></b> a r a)           |
 | s       | s       | voiceless alveolar fricative       | <ins><b>s</ins></b>uena (<ins><b>s</ins></b> w e n a)         |
 | sh      | S       | voiceless postalveolar fricative   | <ins><b>sh</ins></b>ow (<ins><b>sh</ins></b> o w)             |
