@@ -66,7 +66,7 @@ Phoneme reference for Portuguese (BR).
 | v       | v       | voiced labiodental fricative       |                           |
 
 ## Dialect Allophones:
-READ THE NOTES for how to handle these. Most of these will <ins><b>never</ins></b> be used.
+These will <ins><b>never</ins></b> be used in a dataset.
 | Phoneme | X-SAMPA | Explanation                           | Example               | Dialect                                               |
 |---------|---------|---------------------------------------|-----------------------|-------------------------------------------------------|
 | ng      | N       | velar nasal                           |                       | Reference allophone for n (before velar consonants).  |
