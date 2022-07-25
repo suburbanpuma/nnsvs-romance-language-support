@@ -39,7 +39,41 @@ Phoneme reference for Portuguese (EU)
 (Semi-vowels function as consonants and perform "diphthong-like" tasks.)
 | Phoneme | X-SAMPA | Explaination                    | Example                                 |
 |---------|---------|---------------------------------|-----------------------------------------|
-| y       | j       | palatal approximant      | dois |
-| w       | w       | labial-velar approximant | ouro                                   |
+| y       | j       | palatal approximant             | dois |
+| w       | w       | labial-velar approximant        | ouro                                   |
+
+## Consonants:
+| Phoneme | X-SAMPA | Explanation                        | Example                   |
+|---------|---------|------------------------------------|---------------------------|
+| b       | b       | voiced bilabial plosive            |                           |
+| bh      | B       | voiced bilabial fricative          |                           |
+| ch      | tS      | voiceless postalveolar affricate   |                           |
+| d       | d       | voiced alveolar plosive            |                           |
+| dh      | D       | voiced dental fricative            |                           |
+| f       | f       | voiceless labiodental fricative    |                           |
+| g       | g       | voiced velar plosive               |                           |
+| gh      | G       | voiced velar fricative             |                           |
+| k       | k       | voiceless velar plosive            |                           |
+| l       | l       | lateral alveolar approximant       |                           |
+| lh (*)  | L       | voiced palatal lateral approximant |                           |
+| m       | m       | bilabial nasal                     |                           |
+| n       | n       | alveolar nasal                     |                           |
+| nh      | J       | palatal nasal                      |                           |
+| p       | p       | voiceless bilabial plosive         |                           |
+| r       | 4       | alveolar flap                      |                           |
+| rh      | R       | voiced uvular fricative            |                           |
+| s       | s       | voiceless alveolar fricative       |                           |
+| sh      | S       | voiceless postalveolar fricative   |                           |
+| t       | t       | voiceless alveolar plosive         |                           |
+| z       | z       | voiced alveolar fricative          |                           |
+| zh      | Z       | voiced postalveolar fricative      |                           |
+| v       | v       | voiced labiodental fricative       |                           |
+
+## Dialect Allophones:
+READ THE NOTES for how to handle these. Most of these will <ins><b>never</ins></b> be used.
+| Phoneme | X-SAMPA | Explanation                           | Example               | Dialect                                               |
+|---------|---------|---------------------------------------|-----------------------|-------------------------------------------------------|
+| ng      | N       | velar nasal                           |                       | Reference allophone for n (before velar consonants).  |
 
 
+* [lh] is dropped for many speakers. Label as [j] instead.
