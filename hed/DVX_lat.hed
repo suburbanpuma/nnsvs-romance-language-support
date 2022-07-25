@@ -30,6 +30,28 @@ QS      "additional_1"                           {*^1_*}
 QS      "additional_2"                           {*^2_*}
 QS      "additional_3"                           {*^3_*}
 
+#Phoneme Lanauge Definitions
+
+QS      "L-Spanish"                              {*^a-*,*^e-*,*^i-*,*^o-*,*^u-*,*^b-*,*^bh-*,*^ch-*,*^d-*,*^dh-*,*^f-*,*^g-*,*^gh-*,*^k-*,*^l-*,*^ll-*,*^m-*,*^n-*,*^ny-*,*^p-*,*^r-*,*^rr-*,*^s-*,*^sh-*,*^t-*,*^x-*,*^y-*,*^z-*,*^w-*}
+QS      "C-Spanish"                              {*-a+*,*-e+*,*-i+*,*-o+*,*-u+*,*-b+*,*-bh+*,*-ch+*,*-d+*,*-dh+*,*-f+*,*-g+*,*-gh+*,*-k+*,*-l+*,*-ll+*,*-m+*,*-n+*,*-ny+*,*-p+*,*-r+*,*-rr+*,*-s+*,*-sh+*,*-t+*,*-x+*,*-y+*,*-z+*,*-w+*}
+QS      "R-Spanish"                              {*+a=*,*+e=*,*+i=*,*+o=*,*+u=*,*+b=*,*+bh=*,*+ch=*,*+d=*,*+dh=*,*+f=*,*+g=*,*+gh=*,*+k=*,*+l=*,*+ll=*,*+m=*,*+n=*,*+ny=*,*+p=*,*+r=*,*+rr=*,*+s=*,*+sh=*,*+t=*,*+x=*,*+y=*,*+z=*,*+w=*}
+
+#QS      "L-Italian"                              {*^PHONE-*,}
+#QS      "C-Italian"                              {*-PHONE+*,}
+#QS      "R-Italian"                              {*+PHONE=*,}
+
+#QS      "L-French"                               {*^PHONE-*,}
+#QS      "C-French"                               {*-PHONE+*,}
+#QS      "R-French"                               {*+PHONE=*,}
+
+#QS      "L-EU_Portuguese"                        {*^PHONE-*,}
+#QS      "C-EU_Portuguese"                        {*-PHONE+*,}
+#QS      "R-EU_Portuguese"                        {*+PHONE=*,}
+
+#QS      "L-BR_Portuguese"                        {*^PHONE-*,}
+#QS      "C-BR_Portuguese"                        {*-PHONE+*,}
+#QS      "R-BR_Portuguese"                        {*+PHONE=*,}
+
 #Phonetic definitions
 
 QS      "L-Silences"                             {*^sil-*,*^pau-*,*^br-*,*^exh-*,*^axh-*,*^cgh-*,*^vf-*}
