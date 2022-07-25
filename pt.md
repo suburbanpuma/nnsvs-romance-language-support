@@ -70,7 +70,7 @@ Phoneme reference for Portuguese (EU)
 | v       | v       | voiced labiodental fricative       |                           |
 
 ## Dialect Allophones:
-READ THE NOTES for how to handle these. Most of these will <ins><b>never</ins></b> be used.
+These will <ins><b>never</ins></b> be used in an actual dataset.
 | Phoneme | X-SAMPA | Explanation                           | Example               | Dialect                                               |
 |---------|---------|---------------------------------------|-----------------------|-------------------------------------------------------|
 | ng      | N       | velar nasal                           |                       | Reference allophone for n (before velar consonants).  |
