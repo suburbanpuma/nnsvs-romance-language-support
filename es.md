@@ -1,3 +1,9 @@
+### NOTICE
+By using all OR ANY PART of this project you MUST follow our license at https://github.com/DYVAUX/nnsvs-english-support/blob/main/LICENSE.md
+This includes using parts of our work in yours. If you have questions about the license please contact us.
+We should not have to include this notice in our files but bad actors had forced our hand.
+___
+
 Cleaned up reference provided by subpum
 
 ## Other:
