@@ -79,4 +79,3 @@ These will <ins><b>never</ins></b> be used in a dataset.
 
 
 * Due to "yeismo" the [lh] phoneme is dropped and replaced with [j] for many speakers. Please make your selction on a speaker-by-speaker basis.
-* 
