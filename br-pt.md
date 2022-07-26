@@ -78,4 +78,5 @@ These will <ins><b>never</ins></b> be used in a dataset.
 | ng      | N       | velar nasal                           |                       | Reference allophone for n (before velar consonants).  |
 
 
-* [lh] is dropped for many speakers. Label as [j] instead.
+* Due to "yeismo" the [lh] phoneme is dropped and replaced with [j] for many speakers. Please make your selction on a speaker-by-speaker basis.
+* 
