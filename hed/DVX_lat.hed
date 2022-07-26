@@ -1,3 +1,8 @@
+### NOTICE ###
+# By using all OR ANY PART of this HED file you MUST follow our license at https://github.com/DYVAUX/nnsvs-english-support/blob/main/LICENSE.md
+# This includes using parts of our work in yours. If you have questions about the license please contact us.
+# We should not have to include this notice in our files but bad actors had forced our hand.
+
 #universal HED for Spanish, Portugese, Italian, French, etc
 #in_dim: 332(duration/timelag), 328(acoustic)
 #in_rest_idx: 22
