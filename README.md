@@ -1,6 +1,8 @@
 # nnsvs-romance-language-support
 HED and Supporting Files for Romance Language NNSVS Dataset Creation 
 
+**This is a backup of the DYVAUX Romance HED, in case of archival. It will not get regular updates.**
+
 This repo contains the files required to create a romance language dataset for use in NNSVS.
 Additionally, instructions and examples are provided (or will be provided) for the labeling process.
 
