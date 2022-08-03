@@ -1,10 +1,8 @@
-Any files provided may be used for non-commericial use only. Please contact DYVAUX for commericial use.
+As an archived project, NNSVS Romance Language Support has had the license replaced with one that is much more open. Feel free to fork or use any of the project available as long as proper credit is provided.
 
-By using all OR ANY PART of our projects you MUST credit us (and any other parties) and link back to our license. This also includes but is not limited to referencing pieces our work to build yours. Our work is not a template to be copied from without proper credit.
+By using all OR ANY PART of our projects you MUST credit us (and any other parties) and link back to our license. This also includes but is not limited to referencing pieces our work to build yours.
 
-A different license may be provided for specific files/components. Files from other sources will have its own license terms from its authors and will be included with those files.
-
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/DYVAUX/nnsvs-romance-language-support">DYVAUX NNSVS Romance Language Support</a> by <span property="cc:attributionName">Jeremy Burke (DynamiVox) and DYVAUX Team</span> is licensed under <a href="http://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC 4.0 <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"></a></p> 
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">NNSVS Romance Language Support</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/DYVAUX/nnsvs-romance-language-support" property="cc:attributionName" rel="cc:attributionURL">AUX Group</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 “THIS PROJECT IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND,
 EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
