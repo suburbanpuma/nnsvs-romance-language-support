@@ -1,21 +1,14 @@
 ## Dictionaries
-The dictionaries here are provided as a convenience.
-NNSVS/ENUNU doesn't support multi-syllable words at this time which limits the usefulness of these dictionaries.
-For training you should ONLY use the blank.table file with a phonetic ust/score. If you want to use a dictionary you should replace it after training.
+Dictionaries are provided as a convenience.
+NNSVS/ENUNU doesn't support multi-syllable words, which limits the usefulness of these dictionaries.
+For training you should ONLY use the blank.table file with a phonetic ust/score. The dictionary can be replaced after training.
 
 Explaination of the dictionaries:
 
-blank.table - Standard phonetic table. For training and using voices phonetically rather than lexically.
+blank.table - Standard phonetic table. For _training_ and using voices phonetically rather than lexically.
 
 Spanish:
-* es-base.table - Full phoneme Spanish dictioanry, with default trasncriptions. Includes phonemes that are dropped by most speakers and won't work for most.
-* es-simple.table - Spanish dictionary with [b]/[bv] and [g]/[gh] merged. "ll" uses [y] phoneme. Useful for non-native speakers.
-* es.table - Default Spanish dictionary, with more common pronuncation.
-* es-mx.table - Mexican Spanish dictionary.
-* es-ll.table - Argentinian Spanish dictionary. Same as es.table except "ll" has it's own phoneme.
+* DVX_es-es_default_0.4.txt - Default Spanish dictionary, with full phoneme support
+* DVX_es-es_simplified_0.4.txt - Simplified dicitonary for datasets created with non-native speakers.
+* DVX_es-es_yeismo_0.4.txt  - Same as simplified dictionary, with [ll] replaced with [y] due to yeismo.
 
-French:
-* fr-base.table - Full phoneme French dictioanry, with default trasncriptions. Includes phonemes that are dropped by most speakers.
-* fr-fr.table - Parisian French dictionary. Default for most users.
-* fr-be - Same as fr-fr.table except "un" isn't dropped.
-* fr-qc - cursed.
